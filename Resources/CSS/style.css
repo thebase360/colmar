@@ -1,1 +1,21 @@
-/* For later*\
+/* For later*/
+#logo{
+    font-size: 32px;
+    text-align: left;
+    color: brown;
+}
+#logo2{
+    font-size: 32px;
+    text-align: left;
+}
+#header{
+    text-align: right;
+    font-size: 32px;
+    color: blueviolet;
+}
+learn{
+    background-color: gray;
+}
+h4{
+    color: aquamarine;
+}
